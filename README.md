@@ -1,2 +1,2 @@
 # ProblemSolving
-Solving and optimizing DSA questions
+Solving and optimizing DSA problems.
